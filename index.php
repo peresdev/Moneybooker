@@ -4,7 +4,7 @@
 	include("util.php");
 	include("curl.php");
 	$times_liga = retornaTimesLiga("mes");
-	//ini_set("display_errors", 1);
+	ini_set("display_errors", 1);
 ?>
 
 <!DOCTYPE html>
