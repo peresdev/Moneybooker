@@ -6,8 +6,8 @@ function retornaTimesLiga($tipo) {
 
 	// Credenciais de login do cartolafc
 	$credenciais = array(
-		'login-passaporte' => base64_decode('bW9uZXlib29rZXJjYXJ0b2xhQGdtYWlsLmNvbQ=='),
-		'senha-passaporte' => base64_decode('bW9uZXljYXJ0b2xhMTkw==')
+		'login-passaporte' => 'EMAIL-DO-CARTOLA',
+		'senha-passaporte' => 'SENHA-DO-CARTOLA'
 	);
 
 	// Define a URL original (do formulário de login)
